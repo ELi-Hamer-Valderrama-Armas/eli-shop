@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "title": "Galaxy A71",
+      "price": 1800,
+      "category":"Celular",
+      "description":"El A71 integra un Snapdragon 730, siendo así una evolución con respecto al A70s (que integraba uno de la serie 600), con dos opciones de RAM en 6/8 GB y 128 GB de almacenamiento interno, que pueden ampliarse hasta los 512 GB con una tarjeta microSD.",
+      "sale":false,
+      "img":"galaxy-a71.png",
+      "img1":"galaxy-a71-1.png",
+      "valoration":3,
+      "inventory":"2"
+
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch 2.0",
+      "price": 500,
+      "category":"Relog",
+      "description":"Reloj inteligente con pantalla táctil. - Modelo unisex. - Resistente al agua. - Ritmo cardiaco, Presión sanguínea, Oxígeno en la sangre, Pasos al correr, Ciclismo, alpinismo, mensajes, cronómetro, Iluminación de pantalla, Controlador de música, Encuentra tu teléfono y más.",
+      "sale":true,
+      "img":"smartwatch-20.jpg",
+      "img1":"smartwatch-20-1.jpg",
+      "valoration":4,
+      "inventory":5
+
+    },
+    {
+      "id": 3,
+      "title": "Galaxy S21",
+      "price": 2000,
+      "category":"Celular",
+      "description":"El S21 integra un Snapdragon 730, con dos opciones de RAM en 6/8 GB y 128 GB de almacenamiento interno, que pueden ampliarse hasta los 512 GB con una tarjeta microSD.",
+      "sale":true,
+      "img":"galaxy-s21.png",
+      "img1":"galaxy-s21-1.png",
+      "valoration":2,
+      "inventory":15
+
+    },
+    {
+      "id": 4,
+      "title": "Huawei Nova 8I",
+      "price": 1500,
+      "category":"Celular",
+      "description":"El Nova 8I integra un Snapdragon 730, siendo así una evolución con respecto al I (que integraba uno de la serie 600), con dos opciones de RAM en 6/8 GB y 128 GB de almacenamiento interno, que pueden ampliarse hasta los 512 GB con una tarjeta microSD.",
+      "sale":false,
+      "img":"huawei-nova8i.png",
+      "img1":"huawei-nova8i-1.png",
+      "valoration":3,
+      "inventory":10
+
+    },
+    {
+      "id": 5,
+      "title": "Huawei Nova 9",
+      "price": 1300,
+      "category":"Celular",
+      "description":"El Nova 9 integra un Snapdragon 730, siendo así una evolución con respecto al I (que integraba uno de la serie 600), con dos opciones de RAM en 6/8 GB y 128 GB de almacenamiento interno, que pueden ampliarse hasta los 512 GB con una tarjeta microSD.",
+      "sale":false,
+      "img":"huawei-nova9.png",
+      "img1":"huawei-nova9-1.png",
+      "valoration":3,
+      "inventory":5
+
+    },
+    {
+      "id": 6,
+      "title": "Huawei Y8P",
+      "price": 900,
+      "category":"Celular",
+      "description":"El Nova Y8P integra un Snapdragon 730, siendo así una evolución con respecto al Y (que integraba uno de la serie 600), con dos opciones de RAM en 6/8 GB y 128 GB de almacenamiento interno, que pueden ampliarse hasta los 512 GB con una tarjeta microSD.",
+      "sale":false,
+      "img":"huawei-y8p.jpg",
+      "img1":"huawei-y8p-1.jpg",
+      "valoration":3,
+      "inventory":5
+
+    },
+    {
+      "id": 7,
+      "title": "Galaxy A51",
+      "price": 1400,
+      "category":"Celular",
+      "description":"El Nova A51 integra un Snapdragon 730, siendo así una evolución con respecto al A (que integraba uno de la serie 600), con dos opciones de RAM en 6/8 GB y 128 GB de almacenamiento interno, que pueden ampliarse hasta los 512 GB con una tarjeta microSD.",
+      "sale":false,
+      "img":"galaxy-a51.png",
+      "img1":"galaxy-a51-1.png",
+      "valoration":3,
+      "inventory":8
+
+    },
+    {
+      "id": 8,
+      "title": "Smart Watch Apple SE",
+      "price": 800,
+      "category":"Relog",
+      "description":"Reloj inteligente con pantalla táctil. - Modelo unisex. - Resistente al agua. - Ritmo cardiaco, Presión sanguínea, Oxígeno en la sangre, Pasos al correr, Ciclismo, alpinismo, mensajes, cronómetro, Iluminación de pantalla, Controlador de música, Encuentra tu teléfono y más.",
+      "sale":true,
+      "img":"smartwatch-apple-se.png",
+      "img1":"smartwatch-apple-se-1.png",
+      "valoration":4,
+      "inventory":8
+
+    },
+    {
+      "id": 9,
+      "title": "Smart Watch Apple S2",
+      "price": 900,
+      "category":"Relog",
+      "description":"Reloj inteligente con pantalla táctil. - Modelo unisex. - Resistente al agua. - Ritmo cardiaco, Presión sanguínea, Oxígeno en la sangre, Pasos al correr, Ciclismo, alpinismo, mensajes, cronómetro, Iluminación de pantalla, Controlador de música, Encuentra tu teléfono y más.",
+      "sale":true,
+      "img":"smartwatch-apple-s2.png",
+      "img1":"smartwatch-apple-s2-1.png",
+      "valoration":3,
+      "inventory":10
+
+    },
+    {
+      "id": 10,
+      "title": "Smart Watch Galaxy 3",
+      "price": 1200,
+      "category":"Relog",
+      "description":"Reloj inteligente con pantalla táctil. - Modelo unisex. - Resistente al agua. - Ritmo cardiaco, Presión sanguínea, Oxígeno en la sangre, Pasos al correr, Ciclismo, alpinismo, mensajes, cronómetro, Iluminación de pantalla, Controlador de música, Encuentra tu teléfono y más.",
+      "sale":false,
+      "img":"galaxy-watch3.png",
+      "img1":"galaxy-watch3-1.png",
+      "valoration":2,
+      "inventory":3
+
+    },
+    {
+      "id": 11,
+      "title": "Smart Watch Galaxy 4",
+      "price": 1500,
+      "category":"Relog",
+      "description":"Reloj inteligente con pantalla táctil. - Modelo unisex. - Resistente al agua. - Ritmo cardiaco, Presión sanguínea, Oxígeno en la sangre, Pasos al correr, Ciclismo, alpinismo, mensajes, cronómetro, Iluminación de pantalla, Controlador de música, Encuentra tu teléfono y más.",
+      "sale":false,
+      "img":"galaxy-watch4.png",
+      "img1":"galaxy-watch4-1.png",
+      "valoration":3,
+      "inventory":0
+
+    },
+    {
+      "id": 12,
+      "title": "Smart Watch Galaxy Fit 2",
+      "price": 350,
+      "category":"Relog",
+      "description":"Reloj inteligente con pantalla táctil. - Modelo unisex. - Resistente al agua. - Ritmo cardiaco, Presión sanguínea, Oxígeno en la sangre, Pasos al correr, Ciclismo, alpinismo, mensajes, cronómetro, Iluminación de pantalla, Controlador de música, Encuentra tu teléfono y más.",
+      "sale":false,
+      "img":"galaxy-watch-fit2.png",
+      "img1":"galaxy-watch-fit2-1.png",
+      "valoration":4,
+      "inventory":3
+
+    }
+    
+  ]
